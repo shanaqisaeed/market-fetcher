@@ -32,7 +32,7 @@ Or using query params:
 
 This project is **not free for commercial use without attribution**.
 
-> Developed by **YoozNet**
+> Developed by **Saeed Shanaqi**
 >
 > Any public or private reuse **must include a visible reference to the original GitHub repository**.
 >
@@ -40,4 +40,4 @@ This project is **not free for commercial use without attribution**.
 
 ## GitHub Repository
 
-🔗 [https://github.com/YoozNet/market-fetcher](https://github.com/YoozNet/market-fetcher)
+🔗 [https://github.com/shanaqisaeed/market-fetcher](https://github.com/shanaqisaeed/market-fetcher)
